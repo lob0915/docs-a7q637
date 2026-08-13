@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-8yosk0.mon-saas.com/sitemap.xml
